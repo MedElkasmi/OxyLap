@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OxyLabs VPN</string>
+    <string name="connecting">Connecting to VPN...</string>
+    <string name="connected">VPN Connected</string>
+    <string name="disconnected">VPN Disconnected</string>
+    <string name="vpn_permission_denied">VPN permission denied</string>
+    <string name="connection_error">Connection failed</string>
+    <string name="proxy_error">Proxy authentication failed</string>
+</resources>
